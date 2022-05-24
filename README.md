@@ -12,7 +12,7 @@
 ![img](https://custom-icon-badges.herokuapp.com/badge/Pull%20Request-purple.svg?logo=pr)
 
   </h3>
-  <h1> Please check my Linkedin   🌸  </h1>
+  
  <a href="https://www.linkedin.com/in/sara-gismondi-fullstack-dev-?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPspoh9NFTo%2BFwsmJ8vmQyw%3D%3D" target="_blank"><img src="https://user-images.githubusercontent.com/59575502/127343867-952c0121-c592-435d-8085-dc54b6ea6517.png" height="120px" width="120px" alt="Twitter" align="right"></a> 
 
 <h4> For a long time, I studied Logic so I´m a logician but now I´m so happy to have the possibility to apply it in conjunction with all the technologies that I learned in Henry Bootcamp, where I formed myself with their intensive course for Full-Stack Web Developer, which counts with 800+ hours of practicing and learning.</h4>
