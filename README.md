@@ -58,8 +58,8 @@ You should know that I have excellent oratory and I find myself very comfortable
  <h4>  📞 Contact Me ! 📞 </h4>
  <h4>💠WhatsApp: (+54 9) 11 3534284707 <h4>
  <h4>💠e-Mail: saritagismondi@gmail.com <h4>
- <h4> 🌸 Please check my Linkedin   🌸  </h4>
- <h4> 🌸 "https://www.linkedin.com/in/sara-gismondi-fullstack-dev-?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPspoh9NFTo%2BFwsmJ8vmQyw%3D%3D" 🌸  </h4>
+ <h4> 🌸 Check my Linkedin   🌸  </h4>
+ <h4> 🌸 https://www.linkedin.com/in/sara-gismondi-fullstack-dev-?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPspoh9NFTo%2BFwsmJ8vmQyw%3D%3D🌸  </h4>
 
 
   
