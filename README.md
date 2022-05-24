@@ -18,7 +18,7 @@
 
 For a long time, I studied Logic so I´m a logician but now I´m so happy to have the possibility to apply it in conjunction with all the technologies that I learned in Henry Bootcamp, where I formed myself with their intensive course for Full-Stack Web Developer, which counts with 800+ hours of practicing and learning.
 
-  ❤ Which technologies do I work with?  ❤ 
+ <h4> ❤ Which technologies do I work with?  ❤ </h4>
 
 ◽Languages: Javascript, SQL
 ◾Front-End : React | Redux | Hooks | React-Router | Bootstrap | CSS | HTML 
@@ -28,8 +28,8 @@ For a long time, I studied Logic so I´m a logician but now I´m so happy to hav
 ◾GIT | GITHUB 
 
 
-❤ Why me ? ❤
-<h4>You should know that I have excellent oratory and I find myself very comfortable working with pairs. I think communication is the Primary-key to making team effort become the best, also to challenging our capacities and evolving to be better </h4>
+<h4> ❤ Why me ? ❤ </h4>
+You should know that I have excellent oratory and I find myself very comfortable working with pairs. I think communication is the Primary-key to making team effort become the best, also to challenging our capacities and evolving to be better 
 
 <p align="center">
 
