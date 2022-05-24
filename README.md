@@ -1,7 +1,7 @@
 <h3 align="center">
   
   ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
-  <h2> ❤  Welcome I'm Sara Gismondi and I´m a Full-Stack Web Developer Jr. looking for my first job! ❤  </h2>
+  <h2> ❤  Welcome I'm Sara Gismondi and I´m a Full-Stack Web Developer Jr. looking for my first job!  </h2>
   
 ![img](https://custom-icon-badges.herokuapp.com/badge/Repo-blue.svg?logo=repo)
 ![img](https://custom-icon-badges.herokuapp.com/badge/Star-yellow.svg?logo=star)
@@ -16,7 +16,7 @@
 
 <h4> For a long time, I studied Logic so I´m a logician but now I´m so happy to have the possibility to apply it in conjunction with all the technologies that I learned in Henry Bootcamp, where I formed myself with their intensive course for Full-Stack Web Developer, which counts with 800+ hours of practicing and learning.</h4>
 
- <h4> ❤ Which technologies do I work with?  ❤ </h4>
+ <h4> ❤ Which technologies do I work with?   </h4>
   <p align="center">
 
 <img src="https://user-images.githubusercontent.com/59575502/127427976-be2bc801-ad71-4480-bda4-a6f64926cb7b.png" alt="linux" width="25" height="25" />
@@ -49,16 +49,16 @@
 <h4>◾GIT | GITHUB </h4>
 
 
-<h4> ❤ Why me ? ❤ </h4>
+<h4> ❤ Why me ?  </h4>
 You should know that I have excellent oratory and I find myself very comfortable working with pairs. I think communication is the Primary-key to making team effort become the best, also to challenging our capacities and evolving to be better 
 
   <span> </span>
   
- <h4>  📞 Contact Me ! 📞 </h4>
+ <h4>  📞 Contact Me ! </h4>
  <h4>💠WhatsApp: (+54 9) 11 3534284707 <h4>
  <h4>💠e-Mail: saritagismondi@gmail.com <h4>
- <h4> 🌸 Check my Linkedin   🌸  </h4>
- <h4> 🌸 https://www.linkedin.com/in/sara-gismondi-fullstack-dev-?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPspoh9NFTo%2BFwsmJ8vmQyw%3D%3D🌸  </h4>
+ <h4> 🌸 Check my Linkedin   </h4>
+ <h4> 🌸 https://www.linkedin.com/in/sara-gismondi-fullstack-dev-?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPspoh9NFTo%2BFwsmJ8vmQyw%3D%3D </h4>
 
 
   
