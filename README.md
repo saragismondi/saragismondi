@@ -11,9 +11,6 @@
 ![img](https://custom-icon-badges.herokuapp.com/badge/Commit-green.svg?logo=commit)
 ![img](https://custom-icon-badges.herokuapp.com/badge/Pull%20Request-purple.svg?logo=pr)
 
-
- 
-
   </h3>
  <a href="linkedin.com/in/sara-gismondi-fullstack-dev-" target="_blank"><img src="https://user-images.githubusercontent.com/59575502/127343867-952c0121-c592-435d-8085-dc54b6ea6517.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 
@@ -21,7 +18,7 @@
 
 For a long time, I studied Logic so I´m a logician but now I´m so happy to have the possibility to apply it in conjunction with all the technologies that I learned in Henry Bootcamp, where I formed myself with their intensive course for Full-Stack Web Developer, which counts with 800+ hours of practicing and learning.
 
-°°Which technologies do I work with? 
+  ❤ Which technologies do I work with?  ❤ 
 
 ◽Languages: Javascript, SQL
 ◾Front-End : React | Redux | Hooks | React-Router | Bootstrap | CSS | HTML 
@@ -31,8 +28,8 @@ For a long time, I studied Logic so I´m a logician but now I´m so happy to hav
 ◾GIT | GITHUB 
 
 
-##Why me ? 
-You should know that I have excellent oratory and I find myself very comfortable working with pairs. I think communication is the Primary-key to making team effort become the best, also to challenging our capacities and evolving to be better 
+❤ Why me ? ❤
+<h4>You should know that I have excellent oratory and I find myself very comfortable working with pairs. I think communication is the Primary-key to making team effort become the best, also to challenging our capacities and evolving to be better </h4>
 
 <p align="center">
 
@@ -59,4 +56,4 @@ You should know that I have excellent oratory and I find myself very comfortable
 </p>
 
 
-![footer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoqZENUVLwsbXrD2_63xTrDKaUxqJBu_Tp0w&usqp=CAU)
+![footer](https://as2.ftcdn.net/v2/jpg/02/39/58/69/1000_F_239586983_sXlgu6ggivFJwRUGPvkc6UlQ9zSCn2OV.jpg)
