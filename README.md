@@ -17,7 +17,7 @@
   </h3>
  <a href="linkedin.com/in/sara-gismondi-fullstack-dev-" target="_blank"><img src="https://user-images.githubusercontent.com/59575502/127343867-952c0121-c592-435d-8085-dc54b6ea6517.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 
-<h1> Hey! ❤ Hi! I´m Sara and I am a Full-Stack Web Developer Jr. looking for my first job!.  ❤ <h1/>
+<h6> Hey! ❤ Hi! I´m Sara and I am a Full-Stack Web Developer Jr. looking for my first job!.  ❤ <h6/>
 
 For a long time, I studied Logic so I´m a logician but now I´m so happy to have the possibility to apply it in conjunction with all the technologies that I learned in Henry Bootcamp, where I formed myself with their intensive course for Full-Stack Web Developer, which counts with 800+ hours of practicing and learning.
 
@@ -59,4 +59,4 @@ You should know that I have excellent oratory and I find myself very comfortable
 </p>
 
 
-![footer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIZHWVzZ05BpLir4l0V19581jNAd0Aw995Yg&usqp=CAU)
+![footer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoqZENUVLwsbXrD2_63xTrDKaUxqJBu_Tp0w&usqp=CAU)
