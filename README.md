@@ -2,7 +2,7 @@
   
   ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
   
-  Welcome I'm Sara Gismondi and I´m a Full-Stack Web Developer Jr. looking for my first job!.!
+ <h4> ❤  Welcome I'm Sara Gismondi and I´m a Full-Stack Web Developer Jr. looking for my first job! ❤  </h4>
   
 ![img](https://custom-icon-badges.herokuapp.com/badge/Repo-blue.svg?logo=repo)
 ![img](https://custom-icon-badges.herokuapp.com/badge/Star-yellow.svg?logo=star)
@@ -30,6 +30,9 @@ For a long time, I studied Logic so I´m a logician but now I´m so happy to hav
 
 <h4> ❤ Why me ? ❤ </h4>
 You should know that I have excellent oratory and I find myself very comfortable working with pairs. I think communication is the Primary-key to making team effort become the best, also to challenging our capacities and evolving to be better 
+  
+  
+  
 
 <p align="center">
 
@@ -56,4 +59,3 @@ You should know that I have excellent oratory and I find myself very comfortable
 </p>
 
 
-![footer](https://as2.ftcdn.net/v2/jpg/02/39/58/69/1000_F_239586983_sXlgu6ggivFJwRUGPvkc6UlQ9zSCn2OV.jpg)
