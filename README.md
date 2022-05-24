@@ -20,12 +20,12 @@
 
  <h4> ❤ Which technologies do I work with?  ❤ </h4>
 
-◽Languages: Javascript, SQL
-◾Front-End : React | Redux | Hooks | React-Router | Bootstrap | CSS | HTML 
-◽Back-End : Node.js | Express | 
-◾DataBase: SEQUELIZE | PostgreSQL | SQLite
-◾Metodologias: SCRUM 
-◾GIT | GITHUB 
+  <p> ◽Languages: Javascript, SQL</p>
+<p>◾Front-End : React | Redux | Hooks | React-Router | Bootstrap | CSS | HTML </p>
+<p>◽Back-End : Node.js | Express | </p>
+<p>◾DataBase: SEQUELIZE | PostgreSQL | SQLite </p>
+<p>◾Metodologias: SCRUM </p>
+<p>◾GIT | GITHUB </p>
 
 
 <h4> ❤ Why me ? ❤ </h4>
