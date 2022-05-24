@@ -19,22 +19,7 @@
 <h4> For a long time, I studied Logic so I´m a logician but now I´m so happy to have the possibility to apply it in conjunction with all the technologies that I learned in Henry Bootcamp, where I formed myself with their intensive course for Full-Stack Web Developer, which counts with 800+ hours of practicing and learning.</h4>
 
  <h4> ❤ Which technologies do I work with?  ❤ </h4>
-
-  <p> ◽Languages: Javascript, SQL</p>
-<p>◾Front-End : React | Redux | Hooks | React-Router | Bootstrap | CSS | HTML </p>
-<p>◽Back-End : Node.js | Express | </p>
-<p>◾DataBase: SEQUELIZE | PostgreSQL | SQLite </p>
-<p>◾Metodologias: SCRUM </p>
-<p>◾GIT | GITHUB </p>
-
-
-<h4> ❤ Why me ? ❤ </h4>
-You should know that I have excellent oratory and I find myself very comfortable working with pairs. I think communication is the Primary-key to making team effort become the best, also to challenging our capacities and evolving to be better 
-  
-<span> </span>
-  
-
-<p align="center">
+  <p align="center">
 
 <img src="https://user-images.githubusercontent.com/59575502/127427976-be2bc801-ad71-4480-bda4-a6f64926cb7b.png" alt="linux" width="25" height="25" />
 
@@ -57,6 +42,17 @@ You should know that I have excellent oratory and I find myself very comfortable
 
 
 </p>
+
+  <p> ◽Languages: Javascript, SQL</p>
+<p>◾Front-End : React | Redux | Hooks | React-Router | Bootstrap | CSS | HTML </p>
+<p>◽Back-End : Node.js | Express | </p>
+<p>◾DataBase: SEQUELIZE | PostgreSQL | SQLite </p>
+<p>◾Metodologias: SCRUM </p>
+<p>◾GIT | GITHUB </p>
+
+
+<h4> ❤ Why me ? ❤ </h4>
+You should know that I have excellent oratory and I find myself very comfortable working with pairs. I think communication is the Primary-key to making team effort become the best, also to challenging our capacities and evolving to be better 
 
   <span> </span>
   
