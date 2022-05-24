@@ -16,7 +16,7 @@
 
 <h6> Hey! ❤ Hi! I´m Sara and I am a Full-Stack Web Developer Jr. looking for my first job!.  ❤ <h6/>
 
-For a long time, I studied Logic so I´m a logician but now I´m so happy to have the possibility to apply it in conjunction with all the technologies that I learned in Henry Bootcamp, where I formed myself with their intensive course for Full-Stack Web Developer, which counts with 800+ hours of practicing and learning.
+<h4> For a long time, I studied Logic so I´m a logician but now I´m so happy to have the possibility to apply it in conjunction with all the technologies that I learned in Henry Bootcamp, where I formed myself with their intensive course for Full-Stack Web Developer, which counts with 800+ hours of practicing and learning.</h4>
 
  <h4> ❤ Which technologies do I work with?  ❤ </h4>
 
@@ -31,7 +31,7 @@ For a long time, I studied Logic so I´m a logician but now I´m so happy to hav
 <h4> ❤ Why me ? ❤ </h4>
 You should know that I have excellent oratory and I find myself very comfortable working with pairs. I think communication is the Primary-key to making team effort become the best, also to challenging our capacities and evolving to be better 
   
-  
+<span> </span>
   
 
 <p align="center">
@@ -58,4 +58,5 @@ You should know that I have excellent oratory and I find myself very comfortable
 
 </p>
 
+  <span> </span>
 
