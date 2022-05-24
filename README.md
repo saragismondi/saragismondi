@@ -41,12 +41,12 @@
 
 </p>
 
-<h2> ◽Languages: Javascript, SQL</h2>
-<h2>◾Front-End : React | Redux | Hooks | React-Router | Bootstrap | CSS | HTML </h2>
-<h2>◽Back-End : Node.js | Express | </h2>
-<h2>◾DataBase: SEQUELIZE | PostgreSQL | SQLite </h2>
-<h2>◾Metodologias: SCRUM </h2>
-<h2>◾GIT | GITHUB </h2>
+<h3> ◽Languages: Javascript, SQL</h3>
+<h3>◾Front-End : React | Redux | Hooks | React-Router | Bootstrap | CSS | HTML </h3>
+<h3>◽Back-End : Node.js | Express | </h3>
+<h3>◾DataBase: SEQUELIZE | PostgreSQL | SQLite </h3>
+<h3>◾Metodologias: SCRUM </h3>
+<h3>◾GIT | GITHUB </h3>
 
 
 <h4> ❤ Why me ? ❤ </h4>
