@@ -42,12 +42,12 @@
 
 </p>
 
-<h3> ◽Languages: Javascript, SQL</h3>
-<h3>◾Front-End : React | Redux | Hooks | React-Router | Bootstrap | CSS | HTML </h3>
-<h3>◽Back-End : Node.js | Express | </h3>
-<h3>◾DataBase: SEQUELIZE | PostgreSQL | SQLite </h3>
-<h3>◾Metodologias: SCRUM </h3>
-<h3>◾GIT | GITHUB </h3>
+<h4> ◽Languages: Javascript, SQL</h4>
+<h4>◾Front-End : React | Redux | Hooks | React-Router | Bootstrap | CSS | HTML </h4>
+<h4>◽Back-End : Node.js | Express | </h4>
+<h4>◾DataBase: SEQUELIZE | PostgreSQL | SQLite </h4>
+<h4>◾Metodologias: SCRUM </h4>
+<h4>◾GIT | GITHUB </h4>
 
 
 <h4> ❤ Why me ? ❤ </h4>
