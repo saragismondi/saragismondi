@@ -1,7 +1,7 @@
 <h3 align="center">
   
   ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
-  <h2> °° Welcome I'm Sara Gismondi and I´m a Full-Stack Web Developer Jr. looking for my first job!°° </h2>
+  <h2> °° Welcome I'm Sara Gismondi and I´m a Full-Stack Web Developer Jr!°° </h2>
   
 ![img](https://custom-icon-badges.herokuapp.com/badge/Repo-blue.svg?logo=repo)
 ![img](https://custom-icon-badges.herokuapp.com/badge/Star-yellow.svg?logo=star)
