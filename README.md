@@ -48,7 +48,7 @@
 You should know that I have excellent oratory and I find myself very comfortable working with pairs. I think communication is the Primary-key to making team effort become the best, also to challenging our capacities and evolving to be better 
 
   <span> </span>
-  
+   
  <h4>  📞 Contact Me ! </h4>
  <h4>💠WhatsApp: (+54 9) 11 3534284707 <h4>
  <h4>💠e-Mail: saritagismondi@gmail.com <h4>
