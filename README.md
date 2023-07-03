@@ -1,7 +1,7 @@
 <h3 align="center">
   
   ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
-  <h2> °° Welcome I'm Sara Gismondi and I´m a Front-end Web Developer Jr!°° </h2>
+  <h2>Welcome I'm Sara Gismondi and I´m a Front-end Web Developer!</h2>
   
 ![img](https://custom-icon-badges.herokuapp.com/badge/Repo-blue.svg?logo=repo)
 ![img](https://custom-icon-badges.herokuapp.com/badge/Star-yellow.svg?logo=star)
@@ -35,24 +35,24 @@
 
 </p>
 
-<h4> ◽Languages: Javascript, SQL</h4>
-<h4>◾Front-End : React | Redux | Hooks | React-Router | Bootstrap | CSS | HTML </h4>
+<h4> ◽Languages: Javascript | SQL | Typescript | </h4>
+<h4>◾Front-End : React | Redux | Hooks | React-Router | Bootstrap | CSS | HTML | Pinnia | Nuxt | Vue | Tailwind  </h4>
 <h4>◽Back-End : Node.js | Express | </h4>
 <h4>◾DataBase: SEQUELIZE | PostgreSQL | SQLite </h4>
 <h4>◾Metodologias: SCRUM </h4>
 <h4>◾GIT | GITHUB </h4>
 
 
-<h4> ❤ Why me ? ❤ </h4>
-You should know that I have excellent oratory and I find myself very comfortable working with pairs. I think communication is the Primary-key to making team effort become the best, also to challenging our capacities and evolving to be better 
+<h4>  Why me ?  </h4>
+I have excellent oratory and I find myself very comfortable working with pairs. I think communication is the Primary-key to making team effort become the best, also to challenging our capacities and evolving to be better 
 
   <span> </span>
    
  <h4>  📞 Contact Me ! </h4>
- <h4>💠WhatsApp: (+54 9) 11 3534284707 <h4>
- <h4>💠e-Mail: saritagismondi@gmail.com <h4>
- <h4> 🌸 Check my Linkedin   </h4>
- <h4> 🌸 https://www.linkedin.com/in/sara-gismondi-fullstack-dev- </h4>
+ <h4>💠 WhatsApp: (+54 9) 11 3534284707 <h4>
+ <h4>💠 E-mail: saritagismondi@gmail.com <h4>
+ <h4>  Check my Linkedin   </h4>
+ <h4>  https://www.linkedin.com/in/sara-gismondi-frontend-developer  </h4>
 
 
   
