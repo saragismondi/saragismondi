@@ -19,15 +19,15 @@
 
 ## About me
 
-I build interfaces and websites end to end — design handoff, build, integrations, performance, accessibility and QA — and I talk to clients directly in English while doing it.
+I build interfaces and websites end to end (design handoff, build, integrations, performance, accessibility and QA), and I talk to clients directly in English while doing it.
 
 My foundation is HTML and CSS at a level most developers move past too quickly, which is why what I ship holds up across browsers, screen sizes and accessibility audits instead of only in the happy path. On top of that I work in three areas:
 
-**🎨 Frontend** — React, Vue 3 / Nuxt, TypeScript and Figma. I rebuild platforms rather than patch them, and I design the system when a project needs one.
+**🎨 Frontend:** React, Vue 3 / Nuxt, TypeScript and Figma. I rebuild platforms rather than patch them, and I design the system when a project needs one.
 
-**🔌 WordPress** — Custom themes and PHP plugins, not page-builder templates. WooCommerce, ACF, JetEngine, Gutenberg blocks, WP REST API and plugin-conflict debugging.
+**🔌 WordPress:** Custom themes and PHP plugins, not page-builder templates. WooCommerce, ACF, JetEngine, Gutenberg blocks, WP REST API and plugin-conflict debugging.
 
-**📧 Email & HubSpot** — Hand-coded responsive HTML email that actually renders in Outlook, plus HubSpot CMS templates and modules marketing teams can use without calling a developer back.
+**📧 Email & HubSpot:** Hand-coded responsive HTML email that actually renders in Outlook, plus HubSpot CMS templates and modules marketing teams can use without calling a developer back.
 
 ---
 
@@ -65,17 +65,17 @@ Some things I've shipped: two e-learning platforms rebuilt from scratch in Vue 3
 
 ## Selected projects
 
-**📬 Custom email compatibility testing pipeline** *(Python)* — Renders each email build and delivers it as a multipart HTML + plain-text message to real test inboxes across Gmail, Outlook, Yahoo and iCloud, then verifies light and dark mode on mobile and desktop. Credentials are handled interactively and never written to disk or shell history. Built after commercial rendering services proved cost-prohibitive for the project budget.
+**📬 Custom email compatibility testing pipeline** *(Python)*: Renders each email build and delivers it as a multipart HTML + plain-text message to real test inboxes across Gmail, Outlook, Yahoo and iCloud, then verifies light and dark mode on mobile and desktop. Credentials are handled interactively and never written to disk or shell history. Built after commercial rendering services proved cost-prohibitive for the project budget.
 
-**🐞 [wp-debug-plugin](https://github.com/saragismondi/wp-debug-plugin)** *(PHP)* — Universal WordPress debugging plugin for diagnosing header, footer and template rendering issues.
+**🐞 [wp-debug-plugin](https://github.com/saragismondi/wp-debug-plugin)** *(PHP)*: Universal WordPress debugging plugin for diagnosing header, footer and template rendering issues.
 
 ---
 
 ## Education
 
-- **Universidad Nacional de Córdoba** — Bachelor's Degree in Philosophy, Logic specialization (2008–2017)
-- **Henry Bootcamp** — Full Stack Web Developer Certification (2021–2022)
-- **Henry Bootcamp** — AI Engineer Certification, *in progress* (2026): LLM API integration, conversational assistants, RAG and agent workflows
+- **Universidad Nacional de Córdoba**: Bachelor's Degree in Philosophy, Logic specialization (2008–2017)
+- **Henry Bootcamp**: Full Stack Web Developer Certification (2021–2022)
+- **Henry Bootcamp**: AI Engineer Certification, *in progress* (2026): LLM API integration, conversational assistants, RAG and agent workflows
 
 🌱 Right now I'm finishing the AI Engineer certification and moving toward building the interface layer of AI products.
 
@@ -83,7 +83,7 @@ Some things I've shipped: two e-learning platforms rebuilt from scratch in Vue 3
 
 ## Languages
 
-🇦🇷 Spanish (native) · 🇺🇸 English (professional working proficiency — 6 years working directly with US-based clients and teams)
+🇦🇷 Spanish (native) · 🇺🇸 English (professional working proficiency, 6 years working directly with US-based clients and teams)
 
 ---
 
@@ -94,4 +94,4 @@ Some things I've shipped: two e-learning platforms rebuilt from scratch in Vue 3
 - 🌐 **Portfolio:** [saragismondi.com](https://saragismondi.com)
 - 📱 **WhatsApp:** +54 9 353 428-4707
 
-I'm comfortable owning a project end to end and communicating with clients directly in English — from the scoping call to launch and handover.
+I'm comfortable owning a project end-to-end and communicating with clients directly in English, from the scoping call to launch and handover.
