@@ -1,60 +1,97 @@
-<h3 align="center">
-  
-  ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
-  <h2>Welcome I'm Sara Gismondi and I´m a Front-end Web Developer!</h2>
-
-![img](https://custom-icon-badges.herokuapp.com/badge/Repo-blue.svg?logo=repo)
-![img](https://custom-icon-badges.herokuapp.com/badge/Star-yellow.svg?logo=star)
-![img](https://custom-icon-badges.herokuapp.com/badge/Issue-red.svg?logo=issue)
-![img](https://custom-icon-badges.herokuapp.com/badge/Fork-orange.svg?logo=fork)
-![img](https://custom-icon-badges.herokuapp.com/badge/Commit-green.svg?logo=commit)
-![img](https://custom-icon-badges.herokuapp.com/badge/Pull%20Request-purple.svg?logo=pr)
-
-  </h3>
-  
- <a href="https://www.linkedin.com/in/sara-gismondi-fullstack-dev-?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPspoh9NFTo%2BFwsmJ8vmQyw%3D%3D" target="_blank"><img src="https://user-images.githubusercontent.com/59575502/127343867-952c0121-c592-435d-8085-dc54b6ea6517.png" height="120px" width="120px" alt="Twitter" align="right"></a> 
-
-
- <h4> 💻 Which technologies do I work with?   </h4>
-  <p align="center">
-
-<img src="https://user-images.githubusercontent.com/59575502/127427976-be2bc801-ad71-4480-bda4-a6f64926cb7b.png" alt="linux" width="25" height="25" />
-
-<img src="https://user-images.githubusercontent.com/59575502/127427979-7eddf4e0-1d7e-4735-8564-6a0f641130d6.png" alt="visualstudio" width="25" height="25" />
-<img src="https://user-images.githubusercontent.com/59575502/127427981-bfaa39a1-bce1-4f63-85c4-f61f14f39f46.png" alt="windows" width="25" height="25" />
-<img src="https://user-images.githubusercontent.com/59575502/127426309-0b2bbd98-9756-4798-ad10-f60da4a4d5fb.png" alt="html5" width="25" height="25" />
-<img src="https://user-images.githubusercontent.com/59575502/127426315-abe01b56-a385-455d-9caf-40bc7022a3d3.png" alt="css3" width="25" height="25" />
-<img src="https://user-images.githubusercontent.com/59575502/127426312-4a7a6d79-4b40-4b06-8c94-824ea3e8410e.png" alt="javascript" width="25" height="25" />
-<img src="https://user-images.githubusercontent.com/59575502/127428633-1f18254b-97f9-4358-aec4-3143874035f8.png" alt="react" width="25" height="25" />
-<img src="https://user-images.githubusercontent.com/59575502/127428631-5ab21a62-ac89-4919-9408-724df88ab245.png" alt="nodejs" width="25" height="25" />
-<img src="https://user-images.githubusercontent.com/59575502/127428630-7563c6a0-4ce4-4b21-9473-b7c2b149f3c4.png" alt="mysql" width="25" height="25" />
-<img src="https://user-images.githubusercontent.com/59575502/127427975-18b027b4-dc7f-4616-b9b4-42019b54e8db.png" alt="git" width="25" height="25" />
-<img src="https://user-images.githubusercontent.com/59575502/127427980-4b5ba4cf-daee-474f-a500-872181ccc470.png" alt="vscode" width="25" height="25" />
-
-
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png" alt="header">
 </p>
 
-<h4> ◽Languages: Javascript | SQL | Typescript | </h4>
-<h4>◾Front-End : React | Redux | Hooks | React-Router | Bootstrap | CSS | HTML | Pinnia | Nuxt | Vue | Tailwind  </h4>
-<h4>◽Back-End : Node.js | Express | </h4>
-<h4>◾DataBase: SEQUELIZE | PostgreSQL | SQLite </h4>
-<h4>◾Metodologias: SCRUM </h4>
-<h4>◾GIT | GITHUB </h4>
+<h1 align="center">Hi, I'm Sara Gismondi 👋</h1>
 
+<p align="center">
+  <b>Frontend Developer · WordPress & PHP · Email / HubSpot Developer</b><br>
+  Remote from Argentina (UTC−3) · 6+ years building for US and international clients
+</p>
 
-<h4>  Why me ?  </h4>
-I have excellent oratory and I find myself very comfortable working with pairs. I think communication is the Primary-key to making team effort become the best, also to challenging our capacities and evolving to be better 
+<p align="center">
+  <a href="https://saragismondi.com">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/saragismondi-dev">LinkedIn</a> ·
+  <a href="mailto:saritagismondi@gmail.com">Email</a>
+</p>
 
-  <span> </span>
-   
- <h4>  📞 Contact Me ! </h4>
- <h4>💠 WhatsApp: (+54 9) 11 3534284707 <h4>
- <h4>💠 E-mail: saritagismondi@gmail.com <h4>
- <h4>  Check my Linkedin   </h4>
- <h4>  https://www.linkedin.com/in/sara-gismondi-frontend-developer  </h4>
+---
 
+## About me
 
-  
+I build interfaces and websites end to end — design handoff, build, integrations, performance, accessibility and QA — and I talk to clients directly in English while doing it.
 
-   
+My foundation is HTML and CSS at a level most developers move past too quickly, which is why what I ship holds up across browsers, screen sizes and accessibility audits instead of only in the happy path. On top of that I work in three areas:
+
+**🎨 Frontend** — React, Vue 3 / Nuxt, TypeScript and Figma. I rebuild platforms rather than patch them, and I design the system when a project needs one.
+
+**🔌 WordPress** — Custom themes and PHP plugins, not page-builder templates. WooCommerce, ACF, JetEngine, Gutenberg blocks, WP REST API and plugin-conflict debugging.
+
+**📧 Email & HubSpot** — Hand-coded responsive HTML email that actually renders in Outlook, plus HubSpot CMS templates and modules marketing teams can use without calling a developer back.
+
+---
+
+## Tech stack
+
+**Languages** · JavaScript (ES6+) · TypeScript · PHP · Python · HTML5 · CSS3 / SASS · SQL
+
+**Frontend** · React · Vue 3 · Nuxt · Pinia / Vuex · Tailwind CSS · Bootstrap · jQuery · GSAP · Web Audio API
+
+**CMS & E-commerce** · WordPress (custom themes & plugins) · WooCommerce · Elementor Pro · JetEngine · Kadence · ACF · Shopify (Liquid) · HubSpot CMS (HubL, custom modules) · Drupal
+
+**Backend & Data** · Node.js · Express · REST APIs · PostgreSQL · SQLite · Sequelize
+
+**Quality** · Core Web Vitals · Lighthouse · WCAG 2.1 · Cross-browser QA (Chrome, Firefox, Safari, Edge) · Playwright · Responsive 320px → 2560px
+
+**Design & Workflow** · Figma (design systems, prototyping, component libraries) · Git & GitHub · Jira · Trello · Agile / SCRUM
+
+---
+
+## Where I've worked
+
+| Role | Company | Period |
+|---|---|---|
+| WordPress Developer | OutSourceArg | Jan 2026 – Present |
+| WordPress & Frontend Developer | BetterPros (US tech staffing) | Jun 2024 – Jan 2026 |
+| Frontend Developer | Miracle Devs (Microsoft client) | Jun 2023 – May 2024 |
+| Full-Stack Developer & UI/UX Designer | Broker Digitales | Apr 2023 – May 2023 |
+| Frontend Developer | EducaciónIT & ISTEA | Jan 2021 – Mar 2023 |
+| Frontend Developer & UI Designer | GrooveLab FX (freelance) | Jan 2020 – Present |
+| Email, HubSpot & Web Developer | Freelance, US clients | Jan 2020 – Present |
+
+Some things I've shipped: two e-learning platforms rebuilt from scratch in Vue 3 + Nuxt + Pinia, serving **565K+ students across 345+ courses**; the full brand identity and frontend of an audio plugin platform, including a Figma design system of **60+ components**; regulated pharmaceutical and clinical diagnostics email campaigns for US marketing consultancies; and WordPress and Drupal sites for organizations including AdMonsters, Hilliard Lions and the Library Foundation.
+
+---
+
+## Selected projects
+
+**📬 Custom email compatibility testing pipeline** *(Python)* — Renders each email build and delivers it as a multipart HTML + plain-text message to real test inboxes across Gmail, Outlook, Yahoo and iCloud, then verifies light and dark mode on mobile and desktop. Credentials are handled interactively and never written to disk or shell history. Built after commercial rendering services proved cost-prohibitive for the project budget.
+
+**🐞 [wp-debug-plugin](https://github.com/saragismondi/wp-debug-plugin)** *(PHP)* — Universal WordPress debugging plugin for diagnosing header, footer and template rendering issues.
+
+---
+
+## Education
+
+- **Universidad Nacional de Córdoba** — Bachelor's Degree in Philosophy, Logic specialization (2008–2017)
+- **Henry Bootcamp** — Full Stack Web Developer Certification (2021–2022)
+- **Henry Bootcamp** — AI Engineer Certification, *in progress* (2026): LLM API integration, conversational assistants, RAG and agent workflows
+
+🌱 Right now I'm finishing the AI Engineer certification and moving toward building the interface layer of AI products.
+
+---
+
+## Languages
+
+🇦🇷 Spanish (native) · 🇺🇸 English (professional working proficiency — 6 years working directly with US-based clients and teams)
+
+---
+
+## Get in touch
+
+- 📧 **Email:** saritagismondi@gmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/saragismondi-dev](https://www.linkedin.com/in/saragismondi-dev)
+- 🌐 **Portfolio:** [saragismondi.com](https://saragismondi.com)
+- 📱 **WhatsApp:** +54 9 353 428-4707
+
+I'm comfortable owning a project end to end and communicating with clients directly in English — from the scoping call to launch and handover.
