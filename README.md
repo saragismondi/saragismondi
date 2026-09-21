@@ -33,7 +33,7 @@ Right now I'm applying that stack to AI products: assistant interfaces (streamin
 - **[AI assistant panel for a clinical reporting product](https://github.com/saragismondi/Psynth-design-engineer-assessment)** · React, TypeScript, Storybook, Vitest<br>A system of controlled components: streaming answers, stop and retry, clickable source citations, light and dark themes, keyboard and reduced-motion support, and tests that expose user and assistant roles to assistive technology.
 - **[under-event-api](https://github.com/saragismondi/under-event-api)** · Node.js, Express, PostgreSQL, Sequelize<br>REST API backend for a team-built events platform.
 - **[wp-debug-plugin](https://github.com/saragismondi/wp-debug-plugin)** · PHP<br>Universal WordPress plugin for diagnosing header, footer and template rendering issues.
-- **Email compatibility testing pipeline** · Python<br>Automated multipart delivery to real Gmail, Outlook, Yahoo and iCloud inboxes, with secure credential handling and SMTP diagnostics.
+- **Cross-client HTML email for regulated pharma brands** · HTML, CSS, VML, MJML<br>Build and remediation of campaigns that render in Gmail, Outlook, Apple Mail, Yahoo and mobile: inline fluid widths that survive clients stripping `<style>`, VML buttons for Outlook, dark mode locked so safety information stays legible, and every regulatory link audited.
 
 Client work (EducaciónIT, GrooveLab FX, BetterPros and more) is on my portfolio: **[saragismondi.com](https://www.saragismondi.com)**
 
