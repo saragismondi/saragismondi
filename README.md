@@ -2,96 +2,37 @@
   <img src="https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png" alt="header">
 </p>
 
-<h1 align="center">Hi, I'm Sara Gismondi 👋</h1>
+Hi, I'm Sara Gismondi 👋
 
-<p align="center">
-  <b>Frontend Developer · WordPress & PHP · Email / HubSpot Developer</b><br>
-  Remote from Argentina (UTC−3) · 6+ years building for US and international clients
-</p>
+Senior Frontend Engineer · React · Vue · TypeScript · PHP / Node · AI Integrations
 
-<p align="center">
-  <a href="https://saragismondi.com">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/saragismondi-dev">LinkedIn</a> ·
-  <a href="mailto:saritagismondi@gmail.com">Email</a>
-</p>
+I build production interfaces for US and international clients: 6+ years of React, Vue 3 / Nuxt and TypeScript, with design depth above the frontend and working backend experience below it. I design component systems in Figma, build them in code, and connect them to real data through PHP, Node and third-party APIs.
 
----
+Right now I'm applying that stack to AI products: assistant interfaces (streaming, stop and retry, source citations) and workflow automation in Python, while completing an AI Engineer certification. My degree in Philosophy with a specialization in formal logic shapes how I work: a precise query, a precise prompt and a predictable system come from the same kind of thinking.
 
-## About me
+🧩 What I work with
+	
+Frontend	React · Vue 3 · Nuxt · TypeScript · JavaScript · Pinia · Redux · HTML5
+Styling & motion	CSS3 · SASS · Tailwind CSS · Bootstrap · container queries · responsive design · GSAP / ScrollTrigger animations
+Design systems	Figma · Storybook · design tokens
+Accessibility & semantic HTML	WCAG 2.1 AA · semantic HTML5 and heading hierarchy · ARIA roles and accessible names · keyboard navigation and visible focus · prefers-reduced-motion · accessible HTML email
+WordPress	Custom themes and templates · custom plugins (PHP) · Elementor Pro · Genesis · Spectra · WPBakery · Crocoblock suite (JetEngine CPTs, meta fields, relations, query builder and listings) · ACF · Kadence · WooCommerce · Yoast SEO · HubSpot integration
+Backend & integrations	PHP (WP REST API, hooks and filters) · Node.js · Express · PostgreSQL · Sequelize · REST APIs · HubSpot CRM · Google Analytics 4
+AI & automation	Python · LLM API integration · RAG and agent workflows · conversational UI
+Quality	Vitest · Playwright · Lighthouse / Core Web Vitals · cross-browser QA
+Other platforms	Shopify (Liquid) · HubSpot CMS (HubL, custom modules) · Drupal · hand-coded HTML email
+⭐ Featured work
+AI assistant panel for a clinical reporting product · React, TypeScript, Storybook, Vitest A system of controlled components: streaming answers, stop and retry, clickable source citations, light and dark themes, keyboard and reduced-motion support, and tests that expose user and assistant roles to assistive technology.
+under-event-api · Node.js, Express, PostgreSQL, Sequelize REST API backend for a team-built events platform.
+wp-debug-plugin · PHP Universal WordPress plugin for diagnosing header, footer and template rendering issues.
+Email compatibility testing pipeline · Python Automated multipart delivery to real Gmail, Outlook, Yahoo and iCloud inboxes, with secure credential handling and SMTP diagnostics.
 
-I build interfaces and websites end to end (design handoff, build, integrations, performance, accessibility and QA), and I talk to clients directly in English while doing it.
+Client work (EducaciónIT, GrooveLab FX, BetterPros and more) is on my portfolio: saragismondi.com
 
-My foundation is HTML and CSS at a level most developers move past too quickly, which is why what I ship holds up across browsers, screen sizes and accessibility audits instead of only in the happy path. On top of that I work in three areas:
+📫 Contact
 
-**🎨 Frontend:** React, Vue 3 / Nuxt, TypeScript and Figma. I rebuild platforms rather than patch them, and I design the system when a project needs one.
+saritagismondi@gmail.com · LinkedIn · Portfolio
 
-**🔌 WordPress:** Custom themes and PHP plugins, not page-builder templates. WooCommerce, ACF, JetEngine, Gutenberg blocks, WP REST API and plugin-conflict debugging.
+Remote from Argentina (UTC-3) · Spanish (native) · English (professional working proficiency)
 
-**📧 Email & HubSpot:** Hand-coded responsive HTML email that actually renders in Outlook, plus HubSpot CMS templates and modules marketing teams can use without calling a developer back.
 
----
-
-## Tech stack
-
-**Languages** · JavaScript (ES6+) · TypeScript · PHP · Python · HTML5 · CSS3 / SASS · SQL
-
-**Frontend** · React · Vue 3 · Nuxt · Pinia / Vuex · Tailwind CSS · Bootstrap · jQuery · GSAP · Web Audio API
-
-**CMS & E-commerce** · WordPress (custom themes & plugins) · WooCommerce · Elementor Pro · JetEngine · Kadence · ACF · Shopify (Liquid) · HubSpot CMS (HubL, custom modules) · Drupal
-
-**Backend & Data** · Node.js · Express · REST APIs · PostgreSQL · SQLite · Sequelize
-
-**Quality** · Core Web Vitals · Lighthouse · WCAG 2.1 · Cross-browser QA (Chrome, Firefox, Safari, Edge) · Playwright · Responsive 320px → 2560px
-
-**Design & Workflow** · Figma (design systems, prototyping, component libraries) · Git & GitHub · Jira · Trello · Agile / SCRUM
-
----
-
-## Where I've worked
-
-| Role | Company | Period |
-|---|---|---|
-| WordPress Developer | OutSourceArg | Jan 2026 – Present |
-| WordPress & Frontend Developer | BetterPros (US tech staffing) | Jun 2024 – Jan 2026 |
-| Frontend Developer | Miracle Devs (Microsoft client) | Jun 2023 – May 2024 |
-| Full-Stack Developer & UI/UX Designer | Broker Digitales | Apr 2023 – May 2023 |
-| Frontend Developer | EducaciónIT & ISTEA | Jan 2021 – Mar 2023 |
-| Frontend Developer & UI Designer | GrooveLab FX (freelance) | Jan 2020 – Present |
-| Email, HubSpot & Web Developer | Freelance, US clients | Jan 2020 – Present |
-
-Some things I've shipped: two e-learning platforms rebuilt from scratch in Vue 3 + Nuxt + Pinia, serving **565K+ students across 345+ courses**; the full brand identity and frontend of an audio plugin platform, including a Figma design system of **60+ components**; regulated pharmaceutical and clinical diagnostics email campaigns for US marketing consultancies; and WordPress and Drupal sites for organizations including AdMonsters, Hilliard Lions and the Library Foundation.
-
----
-
-## Selected projects
-
-**📬 Custom email compatibility testing pipeline** *(Python)*: Renders each email build and delivers it as a multipart HTML + plain-text message to real test inboxes across Gmail, Outlook, Yahoo and iCloud, then verifies light and dark mode on mobile and desktop. Credentials are handled interactively and never written to disk or shell history. Built after commercial rendering services proved cost-prohibitive for the project budget.
-
-**🐞 [wp-debug-plugin](https://github.com/saragismondi/wp-debug-plugin)** *(PHP)*: Universal WordPress debugging plugin for diagnosing header, footer and template rendering issues.
-
----
-
-## Education
-
-- **Universidad Nacional de Córdoba**: Bachelor's Degree in Philosophy, Logic specialization (2008–2017)
-- **Henry Bootcamp**: Full Stack Web Developer Certification (2021–2022)
-- **Henry Bootcamp**: AI Engineer Certification, *in progress* (2026): LLM API integration, conversational assistants, RAG and agent workflows
-
-🌱 Right now I'm finishing the AI Engineer certification and moving toward building the interface layer of AI products.
-
----
-
-## Languages
-
-🇦🇷 Spanish (native) · 🇺🇸 English (professional working proficiency, 6 years working directly with US-based clients and teams)
-
----
-
-## Get in touch
-
-- 📧 **Email:** saritagismondi@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/saragismondi-dev](https://www.linkedin.com/in/saragismondi-dev)
-- 🌐 **Portfolio:** [saragismondi.com](https://saragismondi.com)
-- 📱 **WhatsApp:** +54 9 353 428-4707
-
-I'm comfortable owning a project end-to-end and communicating with clients directly in English, from the scoping call to launch and handover.
